@@ -1,2 +1,2 @@
-# Node HLS
+# nodejs-hls-server
 
